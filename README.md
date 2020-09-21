@@ -10,5 +10,7 @@ India has recorded rapid growth in electricity generation since 1985, increasing
 - Time series Analysis Overview
 - Using Pie chart representation of State and Region wise power distribution.
 
+Please find the code on [Kaggle](https://www.kaggle.com/lokeshrth4617/india-s-power-generation-report-2017-2020?scriptVersionId=43166051) and Dataset [link](https://www.kaggle.com/navinmundhra/daily-power-generation-in-india-20172020)
+
 
 
